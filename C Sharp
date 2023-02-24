@@ -1,0 +1,15 @@
+namespace project csharp1
+{
+    class Test
+{ 
+public static void Main()
+{
+    string Input-1 = Console.ReadLine();
+    string Input-2 = Console.ReadLine();
+    int num 1 = Convert.To Int 32(input - 1);
+    int num 2 = Convert.To Int 32(input - 2);
+    int sum = num 1 + num 2;
+    Console.WriteLine(sum);
+}
+}
+}
