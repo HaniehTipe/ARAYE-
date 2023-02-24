@@ -1,3 +1,5 @@
+برنامه ای بنویسد که دو عدد جست و جو شده در آرایه 10*10 را به صورت ستونی پیمایش کند
+
 #include <iostream>
 using namespace std;
 void main()
@@ -18,6 +20,7 @@ void main()
 		for (int i = 0; i < 10; i++)
 		{
 			if (a[i][j] == x)
+		
 			{
 				n = x;
 			}
